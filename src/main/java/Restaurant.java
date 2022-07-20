@@ -62,4 +62,9 @@ public class Restaurant {
         return name;
     }
 
+    public int getOrderValue(List<String> itemNames) throws itemNotFoundException {
+        // TODO: Implement to the logic
+        return 0;
+    }
+
 }
